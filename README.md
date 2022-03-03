@@ -1,4 +1,12 @@
-### Hi there 👋
+### Holla Everyone! 👋
+
+Allow me to introduce myself, my name is **Jasti Ohanna**.
+
+I'm a college student at Universitas Surabaya. I studied Business Information System.
+
+Currently, i am cureently enrolled in **Cloud Computing Studi Independent Bangkit Academy 2022 by Google, GoTo, Traveloka**.
+
+If you're interested to know me better✨, follow my [Linkedin](https://www.linkedin.com/in/jasti-ohanna-267463218/).
 
 <!--
 **ohannajasti/ohannajasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
